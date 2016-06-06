@@ -1,0 +1,939 @@
+{  
+   "categorias":[  
+      {  
+         "Id":"574cc6e71c21a2bbe0ed3051",
+         "id_categoria":1,
+         "nombre":"Celulares y tablets",
+         "productos":[  
+            {  
+               "id_prod":1,
+               "id_usuario":774024253,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"10/11/2015"
+            },
+            {  
+               "id_prod":2,
+               "id_usuario":696460401,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/utsitdolor.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"3/17/2015"
+            },
+            {  
+               "id_prod":3,
+               "id_usuario":1083402679,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/veniameligendiet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"4/5/2016"
+            },
+            {  
+               "id_prod":4,
+               "id_usuario":214291895,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/reiciendisvoluptatibussit.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/28/2015"
+            },
+            {  
+               "id_prod":5,
+               "id_usuario":897170641,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/modietvoluptatum.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"4/27/2016"
+            },
+            {  
+               "id_prod":6,
+               "id_usuario":689943026,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/2/2015"
+            },
+            {  
+               "id_prod":7,
+               "id_usuario":388743180,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/modietvoluptatum.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"2/19/2015"
+            },
+            {  
+               "id_prod":8,
+               "id_usuario":1025449088,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"10/9/2015"
+            },
+            {  
+               "id_prod":9,
+               "id_usuario":811673682,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/doloremquienim.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Truequiado",
+               "fecha_publicacion":"9/20/2015"
+            },
+            {  
+               "id_prod":10,
+               "id_usuario":1179698898,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"1/7/2015"
+            },
+            {  
+               "id_prod":11,
+               "id_usuario":1007445530,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/modietvoluptatum.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"",
+               "estado":"Entrueque",
+               "fecha_publicacion":"9/19/2015"
+            },
+            {  
+               "id_prod":12,
+               "id_usuario":832066932,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/abetrepellendus.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/1/2015"
+            },
+            {  
+               "id_prod":13,
+               "id_usuario":967891307,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/doloremofficiaquis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Disponible",
+               "fecha_publicacion":"12/4/2015"
+            },
+            {  
+               "id_prod":14,
+               "id_usuario":467767682,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/abetrepellendus.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2015"
+            },
+            {  
+               "id_prod":15,
+               "id_usuario":1117617439,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/utquopossimus.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"6/19/2015"
+            },
+            {  
+               "id_prod":16,
+               "id_usuario":1033459971,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/eadolorefacere.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/19/2015"
+            },
+            {  
+               "id_prod":17,
+               "id_usuario":308505638,
+               "nombre_prod":"Computador Acer",
+               "foto_prod":"https://robohash.org/veniameligendiet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"5/14/2015"
+            },
+            {  
+               "id_prod":18,
+               "id_usuario":991836182,
+               "nombre_prod":"Portatil Lenovo",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"6/2/2015"
+            },
+            {  
+               "id_prod":19,
+               "id_usuario":697990755,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/explicabomolestiaeexcepturi.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"4/24/2016"
+            },
+            {  
+               "id_prod":20,
+               "id_usuario":622384389,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/recusandaehicnobis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2016"
+            }
+         ]
+      },
+      {  
+         "Id":"574cc6e71c21a2bbe0ed3052",
+         "id_categoria":2,
+         "nombre":"TV Audio y Foto",
+         "productos":[  
+            {  
+               "id_prod":1,
+               "id_usuario":453234978,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/aliquamquasrepudiandae.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"10/11/2015"
+            },
+            {  
+               "id_prod":2,
+               "id_usuario":1146799782,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"3/17/2015"
+            },
+            {  
+               "id_prod":3,
+               "id_usuario":1093295949,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/doloremofficiaquis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"4/5/2016"
+            },
+            {  
+               "id_prod":4,
+               "id_usuario":1118018709,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/reiciendisvoluptatibussit.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/28/2015"
+            },
+            {  
+               "id_prod":5,
+               "id_usuario":805173057,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/utquopossimus.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"4/27/2016"
+            },
+            {  
+               "id_prod":6,
+               "id_usuario":50065839,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/reiciendisvoluptatibussit.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/2/2015"
+            },
+            {  
+               "id_prod":7,
+               "id_usuario":705552258,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/aliquamquasrepudiandae.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"2/19/2015"
+            },
+            {  
+               "id_prod":8,
+               "id_usuario":387228231,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"10/9/2015"
+            },
+            {  
+               "id_prod":9,
+               "id_usuario":807056227,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/eadolorefacere.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"9/20/2015"
+            },
+            {  
+               "id_prod":10,
+               "id_usuario":1053976628,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"1/7/2015"
+            },
+            {  
+               "id_prod":11,
+               "id_usuario":724900276,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/dignissimosomnissapiente.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"9/19/2015"
+            },
+            {  
+               "id_prod":12,
+               "id_usuario":932379703,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/1/2015"
+            },
+            {  
+               "id_prod":13,
+               "id_usuario":161461687,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/modietvoluptatum.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"12/4/2015"
+            },
+            {  
+               "id_prod":14,
+               "id_usuario":401432320,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2015"
+            },
+            {  
+               "id_prod":15,
+               "id_usuario":1184151059,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Disponible",
+               "fecha_publicacion":"6/19/2015"
+            },
+            {  
+               "id_prod":16,
+               "id_usuario":1113128616,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/19/2015"
+            },
+            {  
+               "id_prod":17,
+               "id_usuario":882132885,
+               "nombre_prod":"Computador Acer",
+               "foto_prod":"https://robohash.org/utsitdolor.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/14/2015"
+            },
+            {  
+               "id_prod":18,
+               "id_usuario":921077753,
+               "nombre_prod":"Portatil Lenovo",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"6/2/2015"
+            },
+            {  
+               "id_prod":19,
+               "id_usuario":914329058,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"4/24/2016"
+            },
+            {  
+               "id_prod":20,
+               "id_usuario":987249080,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/dignissimosomnissapiente.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"5/2/2016"
+            }
+         ]
+      },
+      {  
+         "Id":"574cc6e71c21a2bbe0ed3053",
+         "id_categoria":3,
+         "nombre":"Consolas y videojuegos",
+         "productos":[  
+            {  
+               "id_prod":1,
+               "id_usuario":43125368,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/aliquamquasrepudiandae.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"10/11/2015"
+            },
+            {  
+               "id_prod":2,
+               "id_usuario":1114178330,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/doloremofficiaquis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"3/17/2015"
+            },
+            {  
+               "id_prod":3,
+               "id_usuario":1023891674,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/reiciendisvoluptatibussit.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"4/5/2016"
+            },
+            {  
+               "id_prod":4,
+               "id_usuario":1165902670,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/28/2015"
+            },
+            {  
+               "id_prod":5,
+               "id_usuario":238355482,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/eadolorefacere.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Truequiado",
+               "fecha_publicacion":"4/27/2016"
+            },
+            {  
+               "id_prod":6,
+               "id_usuario":952785122,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/2/2015"
+            },
+            {  
+               "id_prod":7,
+               "id_usuario":617614599,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"2/19/2015"
+            },
+            {  
+               "id_prod":8,
+               "id_usuario":1009841946,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/doloremquienim.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"10/9/2015"
+            },
+            {  
+               "id_prod":9,
+               "id_usuario":654353367,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"9/20/2015"
+            },
+            {  
+               "id_prod":10,
+               "id_usuario":810427407,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/abetrepellendus.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"1/7/2015"
+            },
+            {  
+               "id_prod":11,
+               "id_usuario":108314036,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/abetrepellendus.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"9/19/2015"
+            },
+            {  
+               "id_prod":12,
+               "id_usuario":489654470,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"7/1/2015"
+            },
+            {  
+               "id_prod":13,
+               "id_usuario":1078427674,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"",
+               "estado":"Disponible",
+               "fecha_publicacion":"12/4/2015"
+            },
+            {  
+               "id_prod":14,
+               "id_usuario":724044515,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/doloremofficiaquis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2015"
+            },
+            {  
+               "id_prod":15,
+               "id_usuario":726449119,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/recusandaehicnobis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"6/19/2015"
+            },
+            {  
+               "id_prod":16,
+               "id_usuario":601705222,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/19/2015"
+            },
+            {  
+               "id_prod":17,
+               "id_usuario":935173750,
+               "nombre_prod":"Computador Acer",
+               "foto_prod":"https://robohash.org/dignissimosomnissapiente.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"5/14/2015"
+            },
+            {  
+               "id_prod":18,
+               "id_usuario":667298121,
+               "nombre_prod":"Portatil Lenovo",
+               "foto_prod":"https://robohash.org/dignissimosomnissapiente.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"6/2/2015"
+            },
+            {  
+               "id_prod":19,
+               "id_usuario":833757686,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"4/24/2016"
+            },
+            {  
+               "id_prod":20,
+               "id_usuario":1155693750,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2016"
+            }
+         ]
+      },
+      {  
+         "Id":"574cc6e71c21a2bbe0ed3054",
+         "id_categoria":4,
+         "nombre":"Hogar",
+         "productos":[  
+            {  
+               "id_prod":1,
+               "id_usuario":71284857,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/doloremquepossimusest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"10/11/2015"
+            },
+            {  
+               "id_prod":2,
+               "id_usuario":1143532959,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/doloremquepossimusest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"3/17/2015"
+            },
+            {  
+               "id_prod":3,
+               "id_usuario":1105709429,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/eiusrepellatillum.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"4/5/2016"
+            },
+            {  
+               "id_prod":4,
+               "id_usuario":632582960,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/modietvoluptatum.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/28/2015"
+            },
+            {  
+               "id_prod":5,
+               "id_usuario":319968037,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/doloremquepossimusest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Truequiado",
+               "fecha_publicacion":"4/27/2016"
+            },
+            {  
+               "id_prod":6,
+               "id_usuario":414899744,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/doloremquepossimusest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/2/2015"
+            },
+            {  
+               "id_prod":7,
+               "id_usuario":510904294,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/utsitdolor.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"2/19/2015"
+            },
+            {  
+               "id_prod":8,
+               "id_usuario":1181373865,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/dignissimosomnissapiente.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"10/9/2015"
+            },
+            {  
+               "id_prod":9,
+               "id_usuario":219731762,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/doloremquepossimusest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"9/20/2015"
+            },
+            {  
+               "id_prod":10,
+               "id_usuario":952343256,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/abetrepellendus.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"1/7/2015"
+            },
+            {  
+               "id_prod":11,
+               "id_usuario":531890385,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"9/19/2015"
+            },
+            {  
+               "id_prod":12,
+               "id_usuario":1188530939,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/1/2015"
+            },
+            {  
+               "id_prod":13,
+               "id_usuario":279488674,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/atsitfacere.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"12/4/2015"
+            },
+            {  
+               "id_prod":14,
+               "id_usuario":706558418,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/sitetet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2015"
+            },
+            {  
+               "id_prod":15,
+               "id_usuario":554715931,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/utquopossimus.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"",
+               "estado":"Disponible",
+               "fecha_publicacion":"6/19/2015"
+            },
+            {  
+               "id_prod":16,
+               "id_usuario":1172021503,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/eiusrepellatillum.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"",
+               "estado":"Entrueque",
+               "fecha_publicacion":"7/19/2015"
+            },
+            {  
+               "id_prod":17,
+               "id_usuario":1096032916,
+               "nombre_prod":"Computador Acer",
+               "foto_prod":"https://robohash.org/veniameligendiet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Truequiado",
+               "fecha_publicacion":"5/14/2015"
+            },
+            {  
+               "id_prod":18,
+               "id_usuario":528252857,
+               "nombre_prod":"Portatil Lenovo",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"6/2/2015"
+            },
+            {  
+               "id_prod":19,
+               "id_usuario":599158329,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"4/24/2016"
+            },
+            {  
+               "id_prod":20,
+               "id_usuario":958445300,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/magnamblanditiisest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"5/2/2016"
+            }
+         ]
+      },
+      {  
+         "Id":"574cc6e71c21a2bbe0ed3055",
+         "id_categoria":5,
+         "nombre":"Electrodomesticos",
+         "productos":[  
+            {  
+               "id_prod":1,
+               "id_usuario":848242174,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/explicabomolestiaeexcepturi.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"10/11/2015"
+            },
+            {  
+               "id_prod":2,
+               "id_usuario":211199460,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/dignissimosomnissapiente.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"3/17/2015"
+            },
+            {  
+               "id_prod":3,
+               "id_usuario":861505284,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/modietvoluptatum.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"4/5/2016"
+            },
+            {  
+               "id_prod":4,
+               "id_usuario":1198890274,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/28/2015"
+            },
+            {  
+               "id_prod":5,
+               "id_usuario":51082433,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/doloremquepossimusest.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"4/27/2016"
+            },
+            {  
+               "id_prod":6,
+               "id_usuario":1146424625,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/veniameligendiet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"7/2/2015"
+            },
+            {  
+               "id_prod":7,
+               "id_usuario":793755022,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/abetrepellendus.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"2/19/2015"
+            },
+            {  
+               "id_prod":8,
+               "id_usuario":772579094,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/faciliseossoluta.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"10/9/2015"
+            },
+            {  
+               "id_prod":9,
+               "id_usuario":1169225710,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/veniameligendiet.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Disponible",
+               "fecha_publicacion":"9/20/2015"
+            },
+            {  
+               "id_prod":10,
+               "id_usuario":488617906,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/reiciendisvoluptatibussit.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Entrueque",
+               "fecha_publicacion":"1/7/2015"
+            },
+            {  
+               "id_prod":11,
+               "id_usuario":461740685,
+               "nombre_prod":"Moto Kawasaki",
+               "foto_prod":"https://robohash.org/utquopossimus.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"9/19/2015"
+            },
+            {  
+               "id_prod":12,
+               "id_usuario":564683253,
+               "nombre_prod":"Celular Samsung",
+               "foto_prod":"https://robohash.org/utsitdolor.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/1/2015"
+            },
+            {  
+               "id_prod":13,
+               "id_usuario":555661460,
+               "nombre_prod":"Teclado inalambrico",
+               "foto_prod":"https://robohash.org/recusandaehicnobis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"12/4/2015"
+            },
+            {  
+               "id_prod":14,
+               "id_usuario":644201068,
+               "nombre_prod":"Casco hjc",
+               "foto_prod":"https://robohash.org/eadolorefacere.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Entrueque",
+               "fecha_publicacion":"5/2/2015"
+            },
+            {  
+               "id_prod":15,
+               "id_usuario":157371050,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/recusandaehicnobis.bmp?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"6/19/2015"
+            },
+            {  
+               "id_prod":16,
+               "id_usuario":803485845,
+               "nombre_prod":"Ipod Shuffle",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"7/19/2015"
+            },
+            {  
+               "id_prod":17,
+               "id_usuario":941000645,
+               "nombre_prod":"Computador Acer",
+               "foto_prod":"https://robohash.org/reiciendisvoluptatibussit.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"5/14/2015"
+            },
+            {  
+               "id_prod":18,
+               "id_usuario":153639179,
+               "nombre_prod":"Portatil Lenovo",
+               "foto_prod":"https://robohash.org/utsitdolor.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Producto con dos meses de uso y garantía vigente",
+               "estado":"Truequiado",
+               "fecha_publicacion":"6/2/2015"
+            },
+            {  
+               "id_prod":19,
+               "id_usuario":261645387,
+               "nombre_prod":"Chaqueta cuero",
+               "foto_prod":"https://robohash.org/erroroccaecatideserunt.png?size=100x100\u0026set=set1",
+               "descripcion_prod":"capacidad de almacenar 200 fotos y funcionar bajo el agua",
+               "estado":"Entrueque",
+               "fecha_publicacion":"4/24/2016"
+            },
+            {  
+               "id_prod":20,
+               "id_usuario":871098178,
+               "nombre_prod":"Mouse inalambrico",
+               "foto_prod":"https://robohash.org/utquopossimus.jpg?size=100x100\u0026set=set1",
+               "descripcion_prod":"Blanco y negro con linterna nocturna",
+               "estado":"Disponible",
+               "fecha_publicacion":"5/2/2016"
+            }
+         ]
+      }
+   ]
+}

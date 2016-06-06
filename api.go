@@ -28,8 +28,16 @@ type Producto struct {
 }
 
 // Estructura Cliente
-type Categoria struct {
-	Id              bson.ObjectId `bson:"_id" json:"Id"`
+type Categorias struct {
+	Id              bson.ObjectId `bson:"_id" json:"_id"`
+	Categoria 		[]Categoria `bson:"categorias" json:"categorias"`
+	//IdCategoria  	int `bson:"id_categoria" json:"id_categoria"`
+	//NombreCat  		string `bson:"nombre" json:"nombre"`
+	//Productos       []Producto `bson:"productos" json:"productos"`
+}
+
+type Categoria struct{
+	Id              bson.ObjectId `bson:"id" json:"id"`
 	IdCategoria  	int `bson:"id_categoria" json:"id_categoria"`
 	NombreCat  		string `bson:"nombre" json:"nombre"`
 	Productos       []Producto `bson:"productos" json:"productos"`
@@ -62,7 +70,7 @@ func main() {
 
 	/*para correr en un puerto local*/
 	//r.Run(":1337")
-	r.Run("localhost:8081")
+	r.Run("192.168.0.112:8081")
 }
 
 // Conecta a la base de datos
@@ -114,7 +122,7 @@ func GetCategorias(ginContext *gin.Context) {
 		defer session.Close()
 		collection := session.DB("reusalo_db").C("categorias")
 
-		categorias := []Categoria{}
+		categorias := []Categorias{}
 		err := collection.Find(nil).All(&categorias)
 		if err != nil {
 			panic(err)
