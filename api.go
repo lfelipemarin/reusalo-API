@@ -7,7 +7,7 @@ import (
 "gopkg.in/mgo.v2"
 "gopkg.in/mgo.v2/bson"
 "os"
-//"strconv"
+"strconv"
 "fmt"
 "time"
 )
@@ -27,15 +27,7 @@ type Producto struct {
 	FechaPub	string `bson:"fecha_publicacion" json:"fecha_publicacion"`
 }
 
-// Estructura Cliente
-type Categorias struct {
-	Id              bson.ObjectId `bson:"_id" json:"_id"`
-	Categoria 		[]Categoria `bson:"categorias" json:"categorias"`
-	//IdCategoria  	int `bson:"id_categoria" json:"id_categoria"`
-	//NombreCat  		string `bson:"nombre" json:"nombre"`
-	//Productos       []Producto `bson:"productos" json:"productos"`
-}
-
+// Estructura Categoria
 type Categoria struct{
 	Id              bson.ObjectId `bson:"id" json:"id"`
 	IdCategoria  	int `bson:"id_categoria" json:"id_categoria"`
@@ -59,7 +51,7 @@ func main() {
 	{
 		v1.GET("/", ImOk)
 		v1.GET("/categorias", GetCategorias)
-		//v1.GET("/productos/:token", GetProductos)
+		v1.GET("/categoria/:id", GetCatById)
 		// v1.GET("/cliente/documento/:documento/:token", GetCliente)
 		//v1.GET("/cliente/:correo/:token", GetClientePorCorreo)
 		//v1.GET("/ejecutivo/:correo/:token", GetEjecutivoPorCorreoCliente)
@@ -122,7 +114,7 @@ func GetCategorias(ginContext *gin.Context) {
 		defer session.Close()
 		collection := session.DB("reusalo_db").C("categorias")
 
-		categorias := []Categorias{}
+		categorias := []Categoria{}
 		err := collection.Find(nil).All(&categorias)
 		if err != nil {
 			panic(err)
@@ -133,6 +125,21 @@ func GetCategorias(ginContext *gin.Context) {
 	//		"error":  "permiso denegado",
 	//		})
 	//}
+}
+
+func GetCatById(ginContext *gin.Context) {
+	id := ginContext.Params.ByName("id")
+	numero, _ := strconv.ParseInt(id, 0, 64)
+	session := connect();
+	defer session.Close()
+	collection := session.DB("reusalo_db").C("categorias")
+
+	categoria := Categoria{}
+	err := collection.Find(bson.M{"id_categoria": numero}).One(&categoria)
+	if err != nil {
+		panic(err)
+	}
+	ginContext.JSON(200, categoria)
 }
 
 
