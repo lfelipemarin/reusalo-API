@@ -1,0 +1,72 @@
+{
+	"ImportPath": "github.com/lfelipemarin/reusalo",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/gin-gonic/gin",
+			"Comment": "v1.0rc1-268-gf931d1e",
+			"Rev": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/binding",
+			"Comment": "v1.0rc1-268-gf931d1e",
+			"Rev": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6"
+		},
+		{
+			"ImportPath": "github.com/gin-gonic/gin/render",
+			"Comment": "v1.0rc1-268-gf931d1e",
+			"Rev": "f931d1ea80ae95a6fc739213cdd9399bd2967fb6"
+		},
+		{
+			"ImportPath": "github.com/golang/protobuf/proto",
+			"Rev": "3b06fc7a4cad73efce5fe6217ab6c33e7231ab4a"
+		},
+		{
+			"ImportPath": "github.com/itsjamie/gin-cors",
+			"Rev": "97b4a9da79331dfa2b6d35f4cdd1e50f5148859c"
+		},
+		{
+			"ImportPath": "github.com/manucorporat/sse",
+			"Rev": "ee05b128a739a0fb76c7ebd3ae4810c1de808d6d"
+		},
+		{
+			"ImportPath": "github.com/zabawaba99/firego",
+			"Comment": "v1-28-g8dec086",
+			"Rev": "8dec08658192ba0f3eb4e940e465b1ac56499010"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "c4c3ea71919de159c9e246d7be66deb7f0a39a58"
+		},
+		{
+			"ImportPath": "gopkg.in/go-playground/validator.v8",
+			"Comment": "v8.17.1",
+			"Rev": "014792cf3e266caff1e916876be12282b33059e0"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2",
+			"Comment": "r2016.02.04-1-gb6e2fa3",
+			"Rev": "b6e2fa371e64216a45e61072a96d4e3859f169da"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/bson",
+			"Comment": "r2016.02.04-1-gb6e2fa3",
+			"Rev": "b6e2fa371e64216a45e61072a96d4e3859f169da"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/sasl",
+			"Comment": "r2016.02.04-1-gb6e2fa3",
+			"Rev": "b6e2fa371e64216a45e61072a96d4e3859f169da"
+		},
+		{
+			"ImportPath": "gopkg.in/mgo.v2/internal/scram",
+			"Comment": "r2016.02.04-1-gb6e2fa3",
+			"Rev": "b6e2fa371e64216a45e61072a96d4e3859f169da"
+		},
+		{
+			"ImportPath": "gopkg.in/yaml.v2",
+			"Rev": "a83829b6f1293c91addabc89d0571c246397bbf4"
+		}
+	]
+}
