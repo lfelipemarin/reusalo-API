@@ -62,7 +62,8 @@ func main() {
 
 	/*para correr en un puerto local*/
 	//r.Run(":1337")
-	r.Run("192.168.0.112:8081")
+	//r.Run("192.168.0.112:8081")
+	r.Run()
 }
 
 // Conecta a la base de datos
