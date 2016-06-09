@@ -51,7 +51,7 @@ func main() {
 	{
 		v1.GET("/", ImOk)
 		v1.GET("/categorias", GetCategorias)
-		v1.GET("/categoria/:id", GetCatById)
+		v1.GET("/categoria", GetCatById)
 		// v1.GET("/cliente/documento/:documento/:token", GetCliente)
 		//v1.GET("/cliente/:correo/:token", GetClientePorCorreo)
 		//v1.GET("/ejecutivo/:correo/:token", GetEjecutivoPorCorreoCliente)
@@ -62,8 +62,8 @@ func main() {
 
 	/*para correr en un puerto local*/
 	//r.Run(":1337")
-	//r.Run("192.168.0.112:8081")
 	r.Run()
+	//r.Run()
 }
 
 // Conecta a la base de datos
@@ -129,12 +129,16 @@ func GetCategorias(ginContext *gin.Context) {
 }
 
 func GetCatById(ginContext *gin.Context) {
-	id := ginContext.Params.ByName("id")
+	//id := ginContext.Query("id")
+	id := ginContext.Request.URL.Query().Get("id")
+    //id := c.Query("lastname") // shortcut for c.Request.URL.Query().Get("lastname")
+	//id := ginContext.Params.ByName("id")
 	numero, _ := strconv.ParseInt(id, 0, 64)
 	session := connect();
 	defer session.Close()
 	collection := session.DB("reusalo_db").C("categorias")
 
+	//err := collection.Find(nil).Select(bson.M{"categories": bson.M{"$elemMatch": bson.M{"slug": "general"}}}).One(&result)
 	categoria := Categoria{}
 	err := collection.Find(bson.M{"id_categoria": numero}).One(&categoria)
 	if err != nil {
